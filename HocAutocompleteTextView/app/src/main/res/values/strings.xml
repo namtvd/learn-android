@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HocAutocompleteTextView</string>
+    
+    <string-array name="arrTinhThanh">
+        <item>Tỉnh thành 001</item>
+        <item>Tỉnh thành 002</item>
+        <item>Tỉnh thành 003</item>
+        <item>Tỉnh thành 004</item>
+        <item>Tỉnh thành 005</item>
+        <item>Tỉnh thành 006</item>
+        <item>Tỉnh thành 007</item>
+        <item>Tỉnh thành 008</item>
+        <item>Tỉnh thành 008</item>
+    </string-array>
+</resources>
